@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-identifier:17.0.0@aar">
+    <CLASSES>
+      <root url="jar://F:/caches/transforms-2/files-2.1/455f25cef3e4b57f5d3f724a90478514/play-services-ads-identifier-17.0.0/jars/classes.jar!/" />
+      <root url="file://F:/caches/transforms-2/files-2.1/455f25cef3e4b57f5d3f724a90478514/play-services-ads-identifier-17.0.0/res" />
+      <root url="file://F:/caches/transforms-2/files-2.1/455f25cef3e4b57f5d3f724a90478514/play-services-ads-identifier-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

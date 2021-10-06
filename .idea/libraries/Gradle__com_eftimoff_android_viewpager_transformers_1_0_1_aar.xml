@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.eftimoff:android-viewpager-transformers:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://F:/caches/transforms-2/files-2.1/87daaabea266ec6187891dc938721622/jetified-android-viewpager-transformers-1.0.1/jars/classes.jar!/" />
+      <root url="file://F:/caches/transforms-2/files-2.1/87daaabea266ec6187891dc938721622/jetified-android-viewpager-transformers-1.0.1/res" />
+      <root url="file://F:/caches/transforms-2/files-2.1/87daaabea266ec6187891dc938721622/jetified-android-viewpager-transformers-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

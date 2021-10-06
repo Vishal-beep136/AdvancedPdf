@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.6.1">
+<file name="G:\Advance PDF App\app\src\androidTest\java\pdf\pdftool\ApplicationTest.java">
+</file>
+<file name="G:\Advance PDF App\app\src\androidTest\java\pdf\pdftool\util\DirectoryUtilsTest.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\activity\CropImageActivity.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\activity\FavouritesActivity.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\activity\ImageEditor.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\activity\ImagesPreviewActivity.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\activity\MainActivity.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\activity\PreviewActivity.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\activity\RearrangeImages.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\activity\RearrangePdfPages.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\activity\WelcomeActivity.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\BrushItemAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\EnhancementOptionsAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\ExtractImagesAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\FAQAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\FilesListAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\HistoryAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\ImageFiltersAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\MergeFilesAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\MergeSelectedFilesAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\PreviewAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\PreviewImageOptionsAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\RearrangeImagesAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\RearrangePdfAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\RecentListAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\adapter\ViewFilesAdapter.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\customviews\MyCardView.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\database\AppDatabase.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\database\DatabaseHelper.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\database\History.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\database\HistoryDao.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\AboutUsFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\AddImagesFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\AddTextFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\ExceltoPdfFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\ExtractTextFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\FAQFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\FavouritesFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\HistoryFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\HomeFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\ImageToPdfFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\InvertPdfFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\MergeFilesFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\PdfToImageFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\QrBarcodeScanFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\RemoveDuplicatePagesFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\RemovePagesFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\SettingsFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\SplitFilesFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\ViewFilesFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\ZipToPdfFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\texttopdf\Enhancers.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\texttopdf\FontColorEnhancer.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\texttopdf\FontFamilyEnhancer.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\texttopdf\FontSizeEnhancer.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\texttopdf\PageColorEnhancer.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\texttopdf\PageSizeEnhancer.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\texttopdf\PasswordEnhancer.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\texttopdf\TextToPdfContract.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\fragment\texttopdf\TextToPdfFragment.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\interfaces\BottomSheetPopulate.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\interfaces\DataSetChanged.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\interfaces\EmptyStateChangeListener.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\interfaces\Enhancer.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\interfaces\ExtractImagesListener.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\interfaces\ItemSelectedListener.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\interfaces\MergeFilesListener.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\interfaces\OnBackPressedInterface.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\interfaces\OnFilterItemClickedListener.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\interfaces\OnItemClickListener.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\interfaces\OnPDFCompressedInterface.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\interfaces\OnPDFCreatedInterface.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\interfaces\OnPdfReorderedInterface.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\interfaces\OnTextToPdfInterface.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\model\BrushItem.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\model\EnhancementOptionsEntity.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\model\FAQItem.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\model\FilterItem.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\model\HomePageItem.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\model\ImageToPDFOptions.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\model\PDFFile.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\model\PDFOptions.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\model\PreviewImageOptionItem.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\model\TextToPDFOptions.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\model\Watermark.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\model\WhatsNew.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\preferences\TextToPdfPreferences.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\providers\fragmentmanagement\FragmentManagement.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\providers\fragmentmanagement\IFragmentManagement.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\AdLoader.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\AddTextEnhancementOptionsUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\BottomSheetCallback.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\BottomSheetUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\BrushUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\ColorUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\CommonCodeUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\Constants.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\CreatePdf.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\DialogUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\DirectoryUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\DocFileReader.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\DocxFileReader.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\ExcelToPDFAsync.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\ExtractImages.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\FavouritesPreferences.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\FeedbackUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\FileReader.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\FileSortUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\FileUriUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\FileUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\FragmentUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\ImageEnhancementOptionsUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\ImageFilterUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\ImageSortUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\ImageUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\InvertPdf.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\MergeHelper.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\MergePdf.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\MergePdfEnhancementOptionsUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\MorphButtonUtility.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\MoveFilesToDirectory.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\PDFApplication.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\PDFEncryptionUtility.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\PDFRotationUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\PDFUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\PageSizeUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\PdfToImages.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\PermissionsUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\PopulateBottomSheetList.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\PopulateBottomSheetListWithExcelFiles.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\PopulateList.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\PrintDocumentAdapterHelper.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\RealPathUtil.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\RecentUtil.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\RemoveDuplicates.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\ResultUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\SettingsOptions.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\SplitPDFUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\StringUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\TextEnhancementOptionsUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\TextFileReader.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\TextToPDFUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\TextToPdfAsync.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\ThemeUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\ViewFilesDividerItemDecoration.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\WatermarkPageEvent.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\WatermarkUtils.java">
+</file>
+<file name="G:\Advance PDF App\app\src\main\java\pdf\pdftool\util\ZipToPdf.java">
+</file>
+<file name="G:\Advance PDF App\app\src\test\java\pdf\pdftool\util\ColorUtilsTest.java">
+</file>
+<file name="G:\Advance PDF App\app\src\test\java\pdf\pdftool\util\FileSortUtilsTest.java">
+</file>
+<file name="G:\Advance PDF App\app\src\test\java\pdf\pdftool\util\ImageSortUtilsTest.java">
+</file>
+<file name="G:\Advance PDF App\app\src\test\java\pdf\pdftool\util\ImageUtilsTest.java">
+</file>
+<file name="G:\Advance PDF App\app\src\test\java\util\FileUtilsTest.java">
+</file>
+<file name="G:\Advance PDF App\app\src\test\java\util\PDFUtilsTest.java">
+</file>
+</checkstyle>
