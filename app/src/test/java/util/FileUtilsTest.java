@@ -9,12 +9,12 @@ import org.mockito.junit.MockitoJUnitRunner;
 import java.io.File;
 import java.util.TimeZone;
 
-import pdf.pdftool.util.FileUtils;
+import pdf.vishal.util.FileUtils;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.mockito.Mockito.when;
-import static pdf.pdftool.util.FileUtils.getFileName;
+import static pdf.vishal.util.FileUtils.getFileName;
 
 @RunWith(MockitoJUnitRunner.class)
 public class FileUtilsTest {

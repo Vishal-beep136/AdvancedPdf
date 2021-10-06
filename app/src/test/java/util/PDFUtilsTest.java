@@ -2,7 +2,7 @@ package util;
 
 import org.junit.Test;
 
-import pdf.pdftool.util.SplitPDFUtils;
+import pdf.vishal.util.SplitPDFUtils;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;

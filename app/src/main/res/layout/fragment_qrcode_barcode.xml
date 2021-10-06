@@ -29,7 +29,7 @@
             android:layout_marginTop="10dp"
             android:orientation="horizontal">
 
-            <pdf.pdftool.customviews.MyCardView
+            <pdf.vishal.customviews.MyCardView
                 android:id="@+id/scan_qrcode"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
@@ -37,7 +37,7 @@
                 app:option_icon="@drawable/ic_qr_barcode"
                 app:option_text="@string/scan_qrcode" />
 
-            <pdf.pdftool.customviews.MyCardView
+            <pdf.vishal.customviews.MyCardView
                 android:id="@+id/scan_barcode"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"

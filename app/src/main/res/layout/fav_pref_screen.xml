@@ -17,7 +17,7 @@
     </com.google.android.material.appbar.AppBarLayout>
     <fragment
         android:id="@+id/activity_settings"
-        android:name="pdf.pdftool.util.FavouritesPreferences"
+        android:name="pdf.vishal.util.FavouritesPreferences"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp" />

@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">PDF Advance</string>
+    <string name="app_name">Advance Pdf</string>
     <string name="title">PDF Actions</string>
 
     <string name="file_name_text">File Name</string>
